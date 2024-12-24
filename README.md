@@ -1,2 +1,2 @@
 # HTML2MarkDown
-This repository converts .html file to .md file
+This repository converts .html file (export from evernote) to .md file
